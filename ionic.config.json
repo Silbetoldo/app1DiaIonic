@@ -1,0 +1,8 @@
+{
+  "name": "appem1dia",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "065bd0ff"
+}

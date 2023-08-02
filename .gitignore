@@ -1,0 +1,142 @@
+# Specifies intentionally untracked files to ignore when using Git
+# http://git-scm.com/docs/gitignore
+
+*~
+*.sw[mnpcod]
+.tmp
+*.tmp
+*.tmp.*
+UserInterfaceState.xcuserstate
+$RECYCLE.BIN/
+
+*.log
+log.txt
+
+
+/.sourcemaps
+/.versions
+/coverage
+
+# Ionic
+/.ionic
+/www
+/platforms
+/plugins
+
+# Compiled output
+/dist
+/tmp
+/out-tsc
+/bazel-out
+
+# Node
+/node_modules
+npm-debug.log
+yarn-error.log
+
+# IDEs and editors
+.idea/
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# Visual Studio Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history/*
+
+
+# Miscellaneous
+/.angular
+/.angular/cache
+.sass-cache/
+/connect.lock
+/coverage
+/libpeerconnection.log
+testem.log
+/typings
+
+# System files
+.DS_Store
+Thumbs.db
+
+Ambiente de Impressão/
+Ambiente de Rede/
+AppData/
+Documents/Meus Vídeos/
+Documents/Minhas Imagens/
+Documents/Minhas Músicas/
+
+
+.VirtualBox/
+.android/
+.angular-config.json
+.arduinoIDE/
+.astah/
+.bash_history
+.conda/
+.emulator_console_auth_token
+.gitconfig
+.gradle/
+.ionic/
+.jdks/
+.lesshst
+.m2/
+.matplotlib/
+.nbi/
+.node_repl_history
+.packettracer
+.ssh/
+.vscode/
+3D Objects/
+AndroidStudioProjects/
+AppData/
+Apresentaçõe*/  # Esse padrão ignora pastas que começam com "Apresenta" e terminam com "ões".
+Bussola/
+Bussula/
+Cadastro/
+CapturarFoto/
+Cisco Packet Tracer 6.3/
+Contacts/
+Desktop/
+Documents/
+Downloads/
+Favorites/
+Imc_Teste/
+IntelGraphicsProfiles/
+Links/
+ListaPersonalizada/
+Mapa/
+Memoria/
+Music/
+NTUSER.DAT*
+Notificacao/
+OneDrive/
+PermissaoAcesso/
+Pictures/
+Projeto_Java/
+Projetos_Android/
+Quiz/
+RadioButton/
+Saved Games/
+Searches/
+Tarefas/
+TutorTech/
+Ubiquiti UniFi/
+Videos/
+VirtualBox VMs/
+java_error_in_studio64.hprof
+java_error_in_studio64_14156.log
+java_error_in_studio64_4320.log
+miniconda3/
+ntuser.dat*
+siltech
+siltech.pub
+teste/
